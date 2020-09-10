@@ -6,10 +6,6 @@ class Difference:
         self.absolutes = [abs(elem) for elem in self.__elements]
         self.maximumDifference = max(self.absolutes) - min(self.absolutes)
 
-	# Add your code here
-
-# End of Difference class
-
 _ = input()
 a = [int(e) for e in input().split(' ')]
 
