@@ -1,1 +1,2 @@
-python codes in the hackerrank 30 days of code challenge
+A repository for hackrrank's python 30 days of code challenge
+
